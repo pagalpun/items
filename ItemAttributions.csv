@@ -1,0 +1,324 @@
+ID,ItemID,AttributionID,Path,Name,DisplayName,Marker,Category,Manual,ReadOnlyMask,Discard
+95178,94,575,0,SP_ID,SP ID,Found,,0,3,0
+95179,94,549,123,SP_ID,SP ID,Found,,0,3,0
+95180,94,550,123,Name,Name,Found,,0,0,0
+95181,94,551,123,PlantGroupType,PG Type,Found,,0,2,0
+95182,94,552,123,Description,Description,Found,,0,0,0
+95184,94,554,123,Depth,Depth,Found,,0,3,0
+95185,94,555,123,DateCreated,Date Created,Found,,0,3,0
+95186,94,556,123,UpdateCount,Update Count,Found,,0,3,0
+95187,94,557,123,Dir_Path,Dir Path,Found,,0,3,0
+95188,94,651,123,ParentID,Parent ID,Found,,0,3,0
+95359,97,578,0,SP_ID,SP ID,Found,,0,3,0
+95360,97,549,126,SP_ID,SP ID,Found,,0,3,0
+95361,97,550,126,Name,Name,Found,,0,0,0
+95362,97,551,126,PlantGroupType,PG Type,Found,,0,2,0
+95363,97,552,126,Description,Description,Found,,0,0,0
+95365,97,554,126,Depth,Depth,Found,,0,3,0
+95366,97,555,126,DateCreated,Date Created,Found,,0,3,0
+95367,97,556,126,UpdateCount,Update Count,Found,,0,3,0
+95368,97,557,126,Dir_Path,Dir Path,Found,,0,3,0
+95369,97,651,126,ParentID,Parent ID,Found,,0,3,0
+95370,98,548,0,Address,Address,Found,,0,3,0
+95371,98,577,0,SP_ID,SP ID,Found,,0,3,0
+95372,98,549,125,SP_ID,SP ID,Found,,0,3,0
+95373,98,550,125,Name,Name,Found,,0,0,0
+95374,98,551,125,PlantGroupType,PG Type,Found,,0,2,0
+95375,98,552,125,Description,Description,Found,,0,0,0
+95377,98,554,125,Depth,Depth,Found,,0,3,0
+95378,98,555,125,DateCreated,Date Created,Found,,0,3,0
+95379,98,556,125,UpdateCount,Update Count,Found,,0,3,0
+95380,98,557,125,Dir_Path,Dir Path,Found,,0,3,0
+95381,98,651,125,ParentID,Parent ID,Found,,0,3,0
+95592,100,549,0,SP_ID,SP ID,Found,,0,3,0
+95593,100,550,0,Name,Name,Found,,0,0,0
+95594,100,551,0,PlantGroupType,Plant Group Type,Found,,0,2,0
+95595,100,552,0,Description,Description,Found,,0,0,0
+95597,100,554,0,Depth,Depth,Found,,0,3,0
+95598,100,555,0,DateCreated,Date Created,Found,,0,3,0
+95599,100,556,0,UpdateCount,Update Count,Found,,0,3,0
+95600,100,557,0,Dir_Path,Dir Path,Found,,0,3,0
+95601,100,651,0,ParentID,Parent ID,Found,,0,3,0
+102331,102,749,0,SP_ID,SP ID,Found,,0,3,0
+102332,102,750,0,SP_Schema_Type,SP Schema Type,Found,,0,3,0
+102334,102,752,0,Username,UserName,Found,,0,3,0
+102335,102,753,0,Password,Password,Found,,0,3,0
+102337,102,755,0,UpdateCount,Update Count,Found,,0,3,0
+102338,102,756,0,Data_base,Data Base,Found,,0,3,0
+102339,102,840,0,SP_RootItemID,SP Root Item ID,Found,,0,3,0
+102340,102,757,224,RootItem.SP_ID,Root Item SP ID,Found,,0,3,0
+102341,102,758,224,RootItem.Name,Root Item Name,Found,,0,0,0
+102342,102,759,224,RootItem.Description,Root Item Desc,Found,,0,0,0
+102343,102,760,224,RootItem.Path,Root Item Path,Found,,0,3,0
+102344,102,761,224,RootItem.UpdateCount,Root Item Update Count,Found,,0,3,0
+102346,102,763,224,RootItem.DateCreated,Root Item Date Created,Found,,0,3,0
+102655,103,757,0,SP_ID,SP ID,Found,,0,3,0
+102656,103,758,0,Name,Name,Found,,0,0,0
+102657,103,759,0,Description,Description,Found,,0,0,0
+102658,103,760,0,Path,Path,Found,,0,3,0
+102659,103,761,0,UpdateCount,Update Count,Found,,0,3,0
+102661,103,763,0,DateCreated,Date Created,Found,,0,3,0
+102732,105,770,0,SP_ID,SP ID,Found,,0,3,0
+102733,105,771,0,ValidHierarchyName,Val Hrchy Name,Found,,0,3,0
+102734,105,772,0,Description,Description,Found,,0,0,0
+102735,105,773,0,UpdateCount,Update Count,Found,,0,3,0
+104821,118,829,0,SP_ID,SP ID,Found,,0,3,0
+104823,118,831,0,Depth,Depth,Found,,0,3,0
+104825,118,833,0,UpdateCount,Update Count,Found,,0,3,0
+104827,118,871,0,SP_ValidHierarchyID,SP Valid Hierarchy ID,Found,,0,3,0
+104834,118,770,255,ValidHierarchy.SP_ID,Valid Hierarchy SP ID,Found,,0,3,0
+104835,118,771,255,ValidHierarchy.ValidHierarchyName,Hrchy Name,Found,,0,3,0
+104836,118,772,255,ValidHierarchy.Description,Hrchy Desc,Found,,0,0,0
+104837,118,773,255,ValidHierarchy.UpdateCount,Valid Hierarchy Update Count,Found,,0,3,0
+129155,94,886,0,UnitCode,Unit Code,Found,,0,3,0
+154697,102,1001,0,DBServer,Databse Server,Found,,0,0,0
+154698,102,1002,0,DBType,Database Type,Found,,0,0,0
+200032,103,4005,0,PlantGroupTypeName,Plant Group Type Name,Found,,0,0,0
+200033,118,4001,0,AllowPIDDrawing,Allow P&ID Drawing,Found,,0,0,0
+200034,118,4004,0,PlantGroupType,Plant Group Type,Found,,0,0,0
+200036,102,4003,0,SysPassword,Sys Password,Found,,0,0,0
+200037,102,4005,224,RootItem.PlantGroupTypeName,Root Item Plant Group Type Name,Found,,0,0,0
+200038,100,4063,0,UserDefined,User Defined,Found,,0,3,0
+200039,97,4063,126,UserDefined,User Defined,Found,,0,3,0
+200040,94,4063,123,UserDefined,User Defined,Found,,0,3,0
+200041,98,4063,125,UserDefined,User Defined,Found,,0,3,0
+200042,63,4066,0,SP_ID,SP ID,Found,,0,3,0
+200043,63,549,201,SP_ID,SP ID,Found,,0,3,0
+200044,63,550,201,Name,Name,Found,,0,0,0
+200045,63,551,201,PlantGroupType,Plant Group Type,Found,,0,0,0
+200046,63,552,201,Description,Description,Found,,0,0,0
+200047,63,554,201,Depth,Depth,Found,,0,0,0
+200048,63,555,201,DateCreated,Date Created,Found,,0,0,0
+200049,63,556,201,UpdateCount,Update Count,Found,,0,0,0
+200050,63,557,201,Dir_Path,Dir Path,Found,,0,0,0
+200051,63,651,201,ParentID,Parent ID,Found,,0,3,0
+200052,63,4063,201,UserDefined,User Defined,Found,,0,3,0
+200053,66,4067,0,SP_ID,SP ID,Found,,0,0,0
+200054,66,549,202,SP_ID,SP ID,Found,,0,0,0
+200055,66,550,202,Name,Name,Found,,0,0,0
+200056,66,551,202,PlantGroupType,Plant Group Type,Found,,0,0,0
+200057,66,552,202,Description,Description,Found,,0,0,0
+200058,66,554,202,Depth,Depth,Found,,0,0,0
+200059,66,555,202,DateCreated,Date Created,Found,,0,0,0
+200060,66,556,202,UpdateCount,Update Count,Found,,0,0,0
+200061,66,557,202,Dir_Path,Dir Path,Found,,0,0,0
+200062,66,651,202,ParentID,Parent ID,Found,,0,0,0
+200063,66,4063,202,UserDefined,User Defined,Found,,0,3,0
+200064,67,4068,0,SP_ID,SP ID,Found,,0,0,0
+200065,67,549,203,SP_ID,SP ID,Found,,0,0,0
+200066,67,550,203,Name,Name,Found,,0,0,0
+200067,67,551,203,PlantGroupType,Plant Group Type,Found,,0,0,0
+200068,67,552,203,Description,Description,Found,,0,0,0
+200069,67,554,203,Depth,Depth,Found,,0,0,0
+200070,67,555,203,DateCreated,Date Created,Found,,0,0,0
+200071,67,556,203,UpdateCount,Update Count,Found,,0,0,0
+200072,67,557,203,Dir_Path,Dir Path,Found,,0,0,0
+200073,67,651,203,ParentID,Parent ID,Found,,0,0,0
+200074,67,4063,203,UserDefined,User Defined,Found,,0,3,0
+200075,68,4069,0,SP_ID,SP ID,Found,,0,0,0
+200076,68,549,204,SP_ID,SP ID,Found,,0,0,0
+200077,68,550,204,Name,Name,Found,,0,0,0
+200078,68,551,204,PlantGroupType,Plant Group Type,Found,,0,0,0
+200079,68,552,204,Description,Description,Found,,0,0,0
+200080,68,554,204,Depth,Depth,Found,,0,0,0
+200081,68,555,204,DateCreated,Date Created,Found,,0,0,0
+200082,68,556,204,UpdateCount,Update Count,Found,,0,0,0
+200083,68,557,204,Dir_Path,Dir Path,Found,,0,0,0
+200084,68,651,204,ParentID,Parent ID,Found,,0,0,0
+200085,68,4063,204,UserDefined,User Defined,Found,,0,3,0
+200086,72,4070,0,SP_ID,SP ID,Found,,0,0,0
+200087,72,549,205,SP_ID,SP ID,Found,,0,0,0
+200088,72,550,205,Name,Name,Found,,0,0,0
+200089,72,551,205,PlantGroupType,Plant Group Type,Found,,0,0,0
+200090,72,552,205,Description,Description,Found,,0,0,0
+200091,72,554,205,Depth,Depth,Found,,0,0,0
+200092,72,555,205,DateCreated,Date Created,Found,,0,0,0
+200093,72,556,205,UpdateCount,Update Count,Found,,0,0,0
+200094,72,557,205,Dir_Path,Dir Path,Found,,0,0,0
+200095,72,651,205,ParentID,Parent ID,Found,,0,0,0
+200096,72,4063,205,UserDefined,User Defined,Found,,0,3,0
+200097,100,4084,0,SP_WSSiteID,SP WS Site ID,Found,,0,3,0
+200098,100,4107,272,WSSite.SP_ID,Workshare Site SP ID,Found,,0,0,0
+200099,100,4109,272,WSSite.Name,Workshare Site Name,Found,,0,0,0
+200100,100,4110,272,WSSite.FTPServer,Workshare Site FTP Server,Found,,0,0,0
+200101,100,4111,272,WSSite.FTPUsername,Workshare Site FTP Username,Found,,0,0,0
+200102,100,4112,272,WSSite.FTPPassword,Workshare Site FTP Password,Found,,0,0,0
+200103,100,4113,272,WSSite.SiteAdminEmailAddress,Workshare Site Admin Email Address,Found,,0,0,0
+200104,97,4084,126,SP_WSSiteID,Workshare ID,Found,,0,0,0
+200105,97,4107,126_272,WSSite.SP_ID,Workshare Site SP ID,Found,,0,0,0
+200106,97,4109,126_272,WSSite.Name,Workshare Site Name,Found,,0,0,0
+200107,97,4110,126_272,WSSite.FTPServer,Workshare Site FTP Server,Found,,0,0,0
+200108,97,4111,126_272,WSSite.FTPUsername,Workshare Site FTP Username,Found,,0,0,0
+200109,97,4112,126_272,WSSite.FTPPassword,Workshare Site FTP Password,Found,,0,0,0
+200110,97,4113,126_272,WSSite.SiteAdminEmailAddress,Workshare Site Admin Email Address,Found,,0,0,0
+200111,94,4084,123,SP_WSSiteID,Workshare ID,Found,,0,0,0
+200112,94,4107,123_272,WSSite.SP_ID,Workshare Site SP ID,Found,,0,0,0
+200113,94,4109,123_272,WSSite.Name,Workshare Site Name,Found,,0,0,0
+200114,94,4110,123_272,WSSite.FTPServer,Workshare Site FTP Server,Found,,0,0,0
+200115,94,4111,123_272,WSSite.FTPUsername,Workshare Site FTP Username,Found,,0,0,0
+200116,94,4112,123_272,WSSite.FTPPassword,Workshare Site FTP Password,Found,,0,0,0
+200117,94,4113,123_272,WSSite.SiteAdminEmailAddress,Workshare Site Admin Email Address,Found,,0,0,0
+200118,98,4084,125,SP_WSSiteID,Workshare ID,Found,,0,0,0
+200119,98,4107,125_272,WSSite.SP_ID,Workshare Site SP ID,Found,,0,0,0
+200120,98,4109,125_272,WSSite.Name,Workshare Site Name,Found,,0,0,0
+200121,98,4110,125_272,WSSite.FTPServer,Workshare Site FTP Server,Found,,0,0,0
+200122,98,4111,125_272,WSSite.FTPUsername,Workshare Site FTP Username,Found,,0,0,0
+200123,98,4112,125_272,WSSite.FTPPassword,Workshare Site FTP Password,Found,,0,0,0
+200124,98,4113,125_272,WSSite.SiteAdminEmailAddress,Workshare Site Admin Email Address,Found,,0,0,0
+200125,63,4084,201,SP_WSSiteID,Workshare ID,Found,,0,0,0
+200126,63,4107,201_272,WSSite.SP_ID,Workshare Site SP ID,Found,,0,3,0
+200127,63,4109,201_272,WSSite.Name,Workshare Site Name,Found,,0,0,0
+200128,63,4110,201_272,WSSite.FTPServer,Workshare Site FTP Server,Found,,0,0,0
+200129,63,4111,201_272,WSSite.FTPUsername,Workshare Site FTP Username,Found,,0,0,0
+200130,63,4112,201_272,WSSite.FTPPassword,Workshare Site FTP Password,Found,,0,0,0
+200131,63,4113,201_272,WSSite.SiteAdminEmailAddress,Workshare Site Admin Email Address,Found,,0,0,0
+200132,66,4084,202,SP_WSSiteID,Workshare ID,Found,,0,0,0
+200133,66,4107,202_272,WSSite.SP_ID,Workshare Site SP ID,Found,,0,0,0
+200134,66,4109,202_272,WSSite.Name,Workshare Site Name,Found,,0,0,0
+200135,66,4110,202_272,WSSite.FTPServer,Workshare Site FTP Server,Found,,0,0,0
+200136,66,4111,202_272,WSSite.FTPUsername,Workshare Site FTP Username,Found,,0,0,0
+200137,66,4112,202_272,WSSite.FTPPassword,Workshare Site FTP Password,Found,,0,0,0
+200138,66,4113,202_272,WSSite.SiteAdminEmailAddress,Workshare Site Admin Email Address,Found,,0,0,0
+200139,67,4084,203,SP_WSSiteID,Workshare ID,Found,,0,0,0
+200140,67,4107,203_272,WSSite.SP_ID,Workshare Site SP ID,Found,,0,0,0
+200141,67,4109,203_272,WSSite.Name,Workshare Site Name,Found,,0,0,0
+200142,67,4110,203_272,WSSite.FTPServer,Workshare Site FTP Server,Found,,0,0,0
+200143,67,4111,203_272,WSSite.FTPUsername,Workshare Site FTP Username,Found,,0,0,0
+200144,67,4112,203_272,WSSite.FTPPassword,Workshare Site FTP Password,Found,,0,0,0
+200145,67,4113,203_272,WSSite.SiteAdminEmailAddress,Workshare Site Admin Email Address,Found,,0,0,0
+200146,68,4084,204,SP_WSSiteID,Workshare ID,Found,,0,0,0
+200147,68,4107,204_272,WSSite.SP_ID,Workshare Site SP ID,Found,,0,0,0
+200148,68,4109,204_272,WSSite.Name,Workshare Site Name,Found,,0,0,0
+200149,68,4110,204_272,WSSite.FTPServer,Workshare Site FTP Server,Found,,0,0,0
+200150,68,4111,204_272,WSSite.FTPUsername,Workshare Site FTP Username,Found,,0,0,0
+200151,68,4112,204_272,WSSite.FTPPassword,Workshare Site FTP Password,Found,,0,0,0
+200152,68,4113,204_272,WSSite.SiteAdminEmailAddress,Workshare Site Admin Email Address,Found,,0,0,0
+200153,72,4084,205,SP_WSSiteID,Workshare ID,Found,,0,0,0
+200154,72,4107,205_272,WSSite.SP_ID,Workshare Site SP ID,Found,,0,0,0
+200155,72,4109,205_272,WSSite.Name,Workshare Site Name,Found,,0,0,0
+200156,72,4110,205_272,WSSite.FTPServer,Workshare Site FTP Server,Found,,0,0,0
+200157,72,4111,205_272,WSSite.FTPUsername,Workshare Site FTP Username,Found,,0,0,0
+200158,72,4112,205_272,WSSite.FTPPassword,Workshare Site FTP Password,Found,,0,0,0
+200159,72,4113,205_272,WSSite.SiteAdminEmailAddress,Workshare Site Admin Email Address,Found,,0,0,0
+200160,100,4108,272,WSSite.UpdateCount,Workshare Site Update Count,Found,,0,0,0
+200161,97,4108,126_272,WSSite.UpdateCount,Workshare Site Update Count,Found,,0,0,0
+200162,94,4108,123_272,WSSite.UpdateCount,Workshare Site Update Count,Found,,0,0,0
+200163,98,4108,125_272,WSSite.UpdateCount,Workshare Site Update Count,Found,,0,0,0
+200164,63,4108,201_272,WSSite.UpdateCount,Workshare Site Update Count,Found,,0,0,0
+200165,66,4108,202_272,WSSite.UpdateCount,Workshare Site Update Count,Found,,0,0,0
+200166,67,4108,203_272,WSSite.UpdateCount,Workshare Site Update Count,Found,,0,0,0
+200167,68,4108,204_272,WSSite.UpdateCount,Workshare Site Update Count,Found,,0,0,0
+200168,72,4108,205_272,WSSite.UpdateCount,Workshare Site Update Count,Found,,0,0,0
+200169,100,4114,272,WSSite.WSSiteType,Workshare Site Type,Found,,0,0,0
+200170,97,4114,126_272,WSSite.WSSiteType,Workshare Site Type,Found,,0,0,0
+200171,94,4114,123_272,WSSite.WSSiteType,Workshare Site Type,Found,,0,0,0
+200172,98,4114,125_272,WSSite.WSSiteType,Workshare Site Type,Found,,0,0,0
+200173,63,4114,201_272,WSSite.WSSiteType,Workshare Site Type,Found,,0,0,0
+200174,66,4114,202_272,WSSite.WSSiteType,Workshare Site Type,Found,,0,0,0
+200175,67,4114,203_272,WSSite.WSSiteType,Workshare Site Type,Found,,0,0,0
+200176,68,4114,204_272,WSSite.WSSiteType,Workshare Site Type,Found,,0,0,0
+200177,72,4114,205_272,WSSite.WSSiteType,Workshare Site Type,Found,,0,0,0
+200178,102,4085,224,RootItem.WSSiteType,Root Item Workshare Site Type,Found,,0,0,0
+200179,103,4085,0,WSSiteType,Workshare Site Type,Found,,0,0,0
+200180,100,4131,272,WSSite.InUse,Workshare Site InUse,Found,,0,0,0
+200181,97,4131,126_272,WSSite.InUse,Workshare Site InUse,Found,,0,0,0
+200182,94,4131,123_272,WSSite.InUse,Workshare Site InUse,Found,,0,0,0
+200183,98,4131,125_272,WSSite.InUse,Workshare Site InUse,Found,,0,0,0
+200184,63,4131,201_272,WSSite.InUse,Workshare Site InUse,Found,,0,0,0
+200185,66,4131,202_272,WSSite.InUse,Workshare Site InUse,Found,,0,0,0
+200186,67,4131,203_272,WSSite.InUse,Workshare Site InUse,Found,,0,0,0
+200187,68,4131,204_272,WSSite.InUse,Workshare Site InUse,Found,,0,0,0
+200188,72,4131,205_272,WSSite.InUse,Workshare Site InUse,Found,,0,0,0
+200189,103,4006,0,WSSiteServerIni,Site Server Ini Path,Found,,0,0,0
+200190,100,4136,272,WSSite.DataAccessType,Workshare Site  Data Access Type,Found,,0,3,0
+200191,97,4136,126_272,WSSite.DataAccessType,Workshare Site  Data Access Type,Found,,0,3,0
+200192,94,4136,123_272,WSSite.DataAccessType,Workshare Site  Data Access Type,Found,,0,3,0
+200193,98,4136,125_272,WSSite.DataAccessType,Workshare Site  Data Access Type,Found,,0,3,0
+200194,63,4136,201_272,WSSite.DataAccessType,Workshare Site  Data Access Type,Found,,0,3,0
+200195,66,4136,202_272,WSSite.DataAccessType,Workshare Site  Data Access Type,Found,,0,3,0
+200196,67,4136,203_272,WSSite.DataAccessType,Workshare Site  Data Access Type,Found,,0,3,0
+200197,68,4136,204_272,WSSite.DataAccessType,Workshare Site  Data Access Type,Found,,0,3,0
+200198,72,4136,205_272,WSSite.DataAccessType,Workshare Site  Data Access Type,Found,,0,3,0
+200199,100,4137,272,WSSite.UNCPath,Workshare Site UNC Path,Found,,0,0,0
+200200,97,4137,126_272,WSSite.UNCPath,Workshare Site UNC Path,Found,,0,0,0
+200201,94,4137,123_272,WSSite.UNCPath,Workshare Site UNC Path,Found,,0,0,0
+200202,98,4137,125_272,WSSite.UNCPath,Workshare Site UNC Path,Found,,0,0,0
+200203,63,4137,201_272,WSSite.UNCPath,Workshare Site UNC Path,Found,,0,3,0
+200204,66,4137,202_272,WSSite.UNCPath,Workshare Site UNC Path,Found,,0,0,0
+200205,67,4137,203_272,WSSite.UNCPath,Workshare Site UNC Path,Found,,0,0,0
+200206,68,4137,204_272,WSSite.UNCPath,Workshare Site UNC Path,Found,,0,0,0
+200207,72,4137,205_272,WSSite.UNCPath,Workshare Site UNC Path,Found,,0,0,0
+200208,103,4007,0,WSEnabled,Workshare Enabled,Found,,0,3,0
+200209,103,4092,0,SP_ParentRootItemID,Parent Root Item ID,Found,,0,3,0
+200210,119,4086,0,SP_ID,SP ID,Found,,0,0,0
+200211,119,4087,0,UpdateCount,Update Count,Found,,0,0,0
+200212,119,4088,0,Name,Name,Found,,0,0,0
+200213,119,4089,0,Value,Value,Found,,0,0,0
+200214,119,4090,0,DisplayName,Display Name,Found,,0,0,0
+200215,119,4091,0,SettingType,Setting Type,Found,,0,0,0
+200216,120,4008,0,Proj_ID,Proj ID,Created,,0,0,0
+200217,120,4009,0,RoleName,Role Name,Created,,0,0,0
+200218,120,4010,0,RoleDescription,Role Description,Created,,0,0,0
+200219,120,4011,0,SP_ID,SP ID,Created,,0,0,0
+200220,121,4012,0,SP_ID,SP ID,Created,,0,0,0
+200221,121,4013,0,RoleValue,Role Value,Created,,0,0,0
+200222,121,4014,0,RoleCategory,Role Category,Created,,0,0,0
+200223,121,4015,0,Role_ID,Role ID,Created,,0,0,0
+200224,122,4016,0,SP_ID,SP ID,Created,,0,0,0
+200225,122,4017,0,Role_ID,Role ID,Created,,0,0,0
+200226,122,4018,0,RoleUserName,Role User Name,Created,,0,0,0
+200227,102,4093,0,SysUID,Sys UID,Created,,0,0,0
+200228,123,4019,0,SP_ID,SP ID,Created,,0,0,0
+200229,123,4020,0,SP_RootItemID,SP Root Item ID,Created,,0,0,0
+200230,123,4021,0,SP_WSSiteID,SP Work Share Site ID,Created,,0,0,0
+200231,123,4022,0,PsUid,Ps Uid,Created,,0,0,0
+200232,123,4023,0,PsPwd,Ps Pwd,Created,,0,0,0
+200233,123,4024,0,DdUid,Dd Uid,Created,,0,0,0
+200234,123,4025,0,DdPwd,Dd Pwd,Created,,0,0,0
+200235,123,4026,0,PidUid,Pid Uid,Created,,0,0,0
+200236,123,4027,0,PidPwd,Pid Pwd,Created,,0,0,0
+200237,123,4028,0,PidDdUid,Pid Dd Uid,Created,,0,0,0
+200238,123,4029,0,PidDdPwd,Pid Dd Pwd,Created,,0,0,0
+200239,123,4030,0,SignKey,Sign Key,Created,,0,0,0
+200240,123,4031,0,SameInstance,Same Instance,Created,,0,0,0
+200241,123,4032,0,SystemOfUnits,System Of Units,Created,,0,0,0
+200242,119,4094,0,SP_IsUpdatedBySPEM,Is Updated By SPEM,Created,,0,0,0
+200243,119,4095,0,SP_BackupType,Backup Type,Created,,0,0,0
+201233,97,4158,126,SP_EFUID,SP EFUID,Created,,0,0,0
+201234,94,4158,123,SP_EFUID,SP EFUID,Created,,0,0,0
+201235,98,4158,125,SP_EFUID,SP EFUID,Created,,0,0,0
+201236,63,4158,201,SP_EFUID,SP EFUID,Created,,0,0,0
+201237,66,4158,202,SP_EFUID,SP EFUID,Created,,0,0,0
+201238,67,4158,203,SP_EFUID,SP EFUID,Created,,0,0,0
+201239,68,4158,204,SP_EFUID,SP EFUID,Created,,0,0,0
+201240,72,4158,205,SP_EFUID,SP EFUID,Created,,0,0,0
+201241,100,4158,0,SP_EFUID,SP EFUID,Created,,0,0,0
+201380,146,4221,0,SP_ID,SP ID,Found,,0,0,0
+201381,146,4222,0,UpdateCount,Update Count,Found,,0,0,0
+201382,146,4223,0,SP_FormatName,Format Name,Found,,0,0,0
+201383,146,4224,0,SP_Alignment,Alignment,Found,,0,0,0
+201384,146,4225,0,SP_FixedStringLength,Fixed String Length,Found,,0,0,0
+201385,146,4226,0,SP_FractionalAccuracy,Fractional Accuracy,Found,,0,0,0
+201386,146,4227,0,SP_IfText,If Text,Found,,0,0,0
+201387,146,4228,0,SP_IndexNumber,Index Number,Found,,0,0,0
+201388,146,4229,0,SP_InsertText,Insert Text,Found,,0,0,0
+201389,146,4230,0,SP_MaximumLength,Maximum Length,Found,,0,0,0
+201390,146,4231,0,SP_MinimumLength,Minimum Length,Found,,0,0,0
+201391,146,4232,0,SP_PadString,Pad String,Found,,0,0,0
+201392,146,4233,0,SP_Precision,Precision,Found,,0,0,0
+201393,146,4234,0,SP_ReadOut,Read Out,Found,,0,0,0
+201394,146,4235,0,SP_SecondaryUnitID,Secondary Unit ID,Found,,0,0,0
+201395,146,4236,0,SP_TertiaryUnitID,Tertiary Unit ID,Found,,0,0,0
+201396,146,4237,0,SP_UnitOfMeasureID,Unit Of Measure ID,Found,,0,0,0
+201397,146,4238,0,SP_DisplayUnits,Display Units,Found,,0,0,0
+201398,146,4242,0,SP_FormatTypesID,Format Types ID,Found,,0,0,0
+201399,146,4239,286,FormatTypes.SP_ID,Format Types SP ID,Found,,0,0,0
+201400,146,4240,286,FormatTypes.SP_FormatTypeName,Format Types Format Type Name,Found,,0,0,0
+201401,146,4241,286,FormatTypes.SP_UnitsOfMeasureTypeID,Format Types Units Of Measure Type ID,Found,,0,0,0
+201402,130,4239,0,SP_ID,SP ID,Found,,0,0,0
+201403,130,4240,0,SP_FormatTypeName,Format Type Name,Found,,0,0,0
+201404,130,4241,0,SP_UnitsOfMeasureTypeID,Units of Measure Type ID,Found,,0,0,0
+201405,130,4243,0,UpdateCount,Update Count,Found,,0,0,0
+201406,146,4243,286,FormatTypes.UpdateCount,Format Types Update Count,Found,,0,0,0
+202496,103,4248,0,SP_CopyProjectStatus,Copy Project Status,,,0,0,0
+202497,120,4249,0,SP_RoleType,Role Type,,,0,3,0
